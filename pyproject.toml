@@ -8,6 +8,7 @@ dependencies = [
     "crewai>=1.14.3",
     "crewai-tools>=1.14.3",
     "databricks-sdk>=0.106.0",
+    "duckduckgo-search>=8.1.1",
     "langchain>=1.2.16",
     "langchain-community>=0.4.1",
     "langchain-openai>=1.2.1",
